@@ -1,6 +1,9 @@
-public class Profesor extends Persona2 {
+public class Profesor2 extends Persona2 {
   private String materia;
   //Setters y Getters
+  public Profesor2(String request) {
+    super(request);
+  }
   public String getMateria() {
     return materia;
   }
