@@ -51,6 +51,7 @@ public abstract class Cliente {
   //Constructor
 
   public Cliente() {
+    
     //Codigo constructor cliente por default
   }
 

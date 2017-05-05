@@ -10,21 +10,19 @@ public class Estudiante extends Persona {
   //Instance methods
 
   public void setSemestreActual(int n) {
-    //Codigo
+    this.semestreActual = n;
   }
 
   public int getSemestreActual() {
-    //Codigo
+    return this.semestreActual;
   }
 
   public int getSemestreMaximo() {
-    //Codigo
+    return this.semestreMaximo;
   }
 
   //Constructor
-
   public Estudiante(int actual, int maximo) {
     super(actual, maximo);
-    // super();
   }
 }

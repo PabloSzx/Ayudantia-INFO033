@@ -10,7 +10,7 @@ public class Empresa extends Cliente {
 
   //Instance methods
 
-  public int setNumeroDeEmpleados(int n) {
+  public void setNumeroDeEmpleados(int n) {
     //Codigo
   }
 
@@ -48,6 +48,7 @@ public class Empresa extends Cliente {
 
 
   public Empresa() {
+    // super(); //constructor de cliente
     //Codigo
   }
 
