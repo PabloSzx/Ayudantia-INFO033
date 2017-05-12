@@ -25,7 +25,7 @@ public abstract class Cliente {
 
     return ret;
   }
-
+                                                      //http://bit.ly/ejercicio1herencia
   //Instance variables
 
   private String nombre;

@@ -8,6 +8,13 @@ public class DemoVehiculo {
     System.out.println(c1.acelerar(130));
     System.out.println(c1.frenar(80));
     System.out.println(v1.acelerar(120));
+    System.out.println(v1.acelerar(300));
     System.out.println(v1.frenar(90));
+    System.out.println(v1.getCC());
+
+    // System.out.println(v1.super);
+
+    // c1.modificarVelMaxima(130);
+    // System.out.println(c1.acelerar(100));
   }
 }

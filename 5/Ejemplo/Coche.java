@@ -1,5 +1,9 @@
-public class Coche implements Vehiculo {
+public class Coche implements Vehiculo, Motor {
   int velocidad = 0;
+
+  public String getCC() {
+    return Integer.toString(cc);
+  }
   public String frenar (int cantidad) {
     velocidad = velocidad - cantidad;
     String msg = "El coche ha frenado... Ahora va a ".concat(Integer.toString(velocidad)).concat(" [Kms/Hora]");
