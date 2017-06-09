@@ -30,7 +30,6 @@ public class ArregloReales implements Estadisticas{
     for (int i = 0; i < arreglo.length; i++) {
       sum+=arreglo[i];
     }
-
     return sum;
   }
 
