@@ -27,6 +27,9 @@ https://docs.google.com/presentation/d/1_mvqmgm_vNZl5W2otiq6CVhuZGCCZ2S3Yewfq2oX
 Slide 7:
 https://docs.google.com/presentation/d/1agu7gD6ZGfXSQyulW8AAIVD2piXZ--a_srCPeYS2itk/edit?usp=sharing
 
+Slide 8:
+https://docs.google.com/presentation/d/1lNjhFAaQ3b9bzyY3ODdfCoRtVziEaq-hrmNPiQfJGwE/edit?usp=sharing
+
 ## Contact me
 Pablo Sáez Parra
 
